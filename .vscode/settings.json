@@ -1,0 +1,7 @@
+{
+    "antigravity.autoOpenFiles": true,
+    "github.copilot.chat.codesearch.enabled": true,
+    "github.copilot.chat.alternateGeminiModelFPrompt.enabled": true,
+    "github.copilot.chat.alternateGptPrompt.enabled": true,
+    "java.jdt.ls.vmargs": "-XX:+UseParallelGC -Xmx2G -Xms100m -Xshare:off"
+}
